@@ -20,5 +20,6 @@ and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at [https://hexdocs.pm/bank_challenge](https://hexdocs.pm/bank_challenge).
 
 ## Ejecution 
+```elixir
 iex(1)> BankChallenge.accounts_validation()
-iex(2)> BankChallenge.accounts_scanning()
+```
